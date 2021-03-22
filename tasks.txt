@@ -1,7 +1,12 @@
 ## Task List
 ------------
-Task 1 contributor B done
-Task 2 contributor B done
+
+Task 1 contributor B - done
+Task 2 contributor B - done
+
+Task 1 - Contributor A - Done
+Task 2 - Contributor A - Done 
+
 Task 3
 Task 4
 Task 5
