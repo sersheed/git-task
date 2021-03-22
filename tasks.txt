@@ -1,11 +1,14 @@
-## Task List
+﻿## Task List
 ------------
 
-Task 1 - Contributor A, contributor B - done
-Task 2 - Contributor A, contributor B - done
-Task 3 - Contributor A, contributor B - done
-Task 4 - Contributor A, contributor B -	done
-Task 5 - Contributor A, contributor B - done
+
+Task 1 - Contributor A , contributor B - Done
+Task 2 - Contributor A , contributor B - Done 
+
+Task 3 - Contributor A , contributor B - Done
+Task 4 - Contributor A , contributor B - Done
+Task 5 - Contributor A , contributor B - Done
+
 
 
 
