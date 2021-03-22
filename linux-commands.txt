@@ -30,3 +30,72 @@ c- cd ~user (another users's home directory)
 d- cd /
 e- cd -   (takes you to the previous directory)
 f- cd ..  (go up one level)
+
+
+
+
+Compression Tools:
+
+- Compression tools are used to compress one or
+
+more files or an archive to save space.
+
+#- gzip
+
+This command creates a compressed file of each of the
+
+files specified and adds .gz extension to the files.
+
+#- gzip filename
+
+#- ls or ll (check files after compression)
+
+
+
+- To uncompress use:
+
+#- gunzip filename
+
+or
+
+#- gzip -d filename
+
+# ls or ll (check files after decompression) 
+
+You can also use bzip2 and bunzip2
+
+#- bzip2 filename
+
+#- bunzip2 filename or bzip2 -d filename
+
+
+
+cat /etc/profile
+
+Displays the contents of the file profile.
+
+- Using more and less command: 
+
+Examples: 
+
+#- more /etc/profile
+
+Displays long text files one page at a time, starting
+
+at the beginning.
+
+- Use spacebar to scroll forward one screen at a time.
+
+- Use Enter to scroll one line at a time.
+
+#- less /etc/profile
+
+Similar to more command but offers some extended
+
+capabilities, it is also faster than more as it does
+
+not need to read the entire file before it starts to
+
+show.
+
+
