@@ -12,8 +12,8 @@ In this task 3 members are participating, Maintainer, Contributor1, Contributor2
 2. Establish remote connection to this repo, Name this remote repo as ‘upstream’.
 
 3. Create files
-Contributor A: Create new text file named ‘git-commands’ that contain 20 git commands
-Contributor B: Create new text file ‘linux-commands’ that contain 20 linux commands.
+Contributor A: Create new text file named ‘git-commands’ that contain 10 git commands
+Contributor B: Create new text file ‘linux-commands’ that contain 10 linux commands.
 
 4. Add a commit your file
 5. Push your new file
