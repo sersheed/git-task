@@ -17,6 +17,7 @@ $ git checkout [branch-name]  Switches to the specified branch and updates th
 $ git merge [branch]  Combines the specified branch’s history into the current branch. This is usually done in pull requests, but is an important Git operation.
 $ git branch -d [branch-name]  Deletes the specified branch
 
+
 Synchronize changes 
 Synchronize your local repository with the remote repository on GitHub.com 
 $ git push  Uploads all local branch commits to GitHub
@@ -37,6 +38,7 @@ Redo commits
 Erase mistakes and craft replacement history
 $ git reset [commit]  Undoes all commits after [commit], preserving changes locally
 $ git reset --hard [commit]  Discards all history and changes back to the specified commit
+
 
 
 
