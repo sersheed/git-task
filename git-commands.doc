@@ -39,6 +39,9 @@ Erase mistakes and craft replacement history
 $ git reset [commit]  Undoes all commits after [commit], preserving changes locally
 $ git reset --hard [commit]  Discards all history and changes back to the specified commit
 
+git-revert[1] is about making a new commit that reverts the changes made by other commits.
+
+git-restore[1] is about restoring files in the working tree from either the index or another commit. This command does not update your branch. The command can also be used to restore files in the index from another commit.
 
 
 
