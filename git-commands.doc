@@ -1,0 +1,19 @@
+GIT COMMANDS
+
+Configure user information for all local repositories
+$ git config --global user.name "[name]"   Sets the name you want attached to your commit transactions
+$ git config --global user.email "[email address]"   Sets the email you want attached to your commit transactions
+$ git config --global color.ui auto   Enables helpful colorization of command line output`
+
+Create repositories 
+When starting out with a new repository, you only need to do it once; either locally, then push to GitHub, or by cloning an existing repository.
+$ git init   Turn an existing directory into a git repository
+$ git clone [url]   Clone (download) a repository that already exists on GitHub, including all of the files, branches, and commits
+
+Branches
+Branches are an important part of working with Git. Any commits you make will be made on the branch you're currently “checked out” to. Use git status to see which branch that is
+$ git branch [branch-name]  Creates a new branch
+$ git checkout [branch-name]  Switches to the specified branch and updates the working directory
+$ git merge [branch]  Combines the specified branch’s history into the current branch. This is usually done in pull requests, but is an important Git operation.
+$ git branch -d [branch-name]  Deletes the specified branch
+
